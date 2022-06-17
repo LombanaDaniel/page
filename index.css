@@ -1,0 +1,85 @@
+*{
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+header {
+    background-color: rgb(2, 200, 226);
+    height: 80px;
+    width: 1430px;
+   text-align: center;
+    color: white;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+nav {
+    background: rgb(34, 35, 107);
+    height: 50px;
+    border: 1px solid
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 0px;
+
+}
+
+.clearfix {
+    clear: both;
+}
+
+#content {
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    padding: 30px;
+   background-image: url(v.jpg);
+   background-size: cover;
+}
+
+aside {
+    float: left;
+    width: 20%;
+    min-height: 500px;
+    padding: 20px;
+    padding-top: 10px;
+    background-color: mediumaquamarine
+}
+
+footer {
+    background-color: rgb(27, 27, 73);
+    color: gray;
+    text-align: center;
+
+    line-height: 50px;
+}
+
+
+
+.articule {
+    text-align: center;
+    border: 1px solid;
+    width: 300px;
+    height: 410px;
+    background-color: rgb(236, 20, 20);
+    color: rgb(250, 250, 250)
+    
+}
+.kk{
+    text-align: center;
+    background-color: aquamarine;
+
+}
+.video{
+    width: 1300px;
+}
+.articule2{
+    text-align: center;
+    background-color: rgb(236, 20, 20);
+    color: rgb(26, 24, 24)
+    
+}
